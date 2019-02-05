@@ -17,3 +17,6 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+# Atom FTP files to ignore
+.ftpconfig
+.ftpignore
