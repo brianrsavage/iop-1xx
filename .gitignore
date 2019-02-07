@@ -20,3 +20,7 @@ wp-content/plugins/hello.php
 # Atom FTP files to ignore
 .ftpconfig
 .ftpignore
+.ftpconfig.cson
+id_rsa
+.DS_Store
+.git
